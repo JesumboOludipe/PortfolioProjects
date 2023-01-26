@@ -14,6 +14,6 @@ I am a passionate junior data analyst with a strong background in SQL, Tableau, 
 
 ## Contact
 
-If you have any questions or would like to collaborate on a project, please feel free to contact me at oludipejesumboj@gmail.com, or visit my LinkedIn profile @Jeusumbo Oludipe
+If you have any questions or would like to collaborate on a project, please feel free to contact me at oludipejesumboj@gmail.com, or visit my LinkedIn profile @Jesumbo Oludipe
 
 Thank you for visiting my portfolio!

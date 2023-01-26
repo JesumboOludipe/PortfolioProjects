@@ -3,9 +3,9 @@
 Welcome to my data analytics portfolio repository! Here you will find a collection of projects that showcase my skills and experience in data analysis. Each project has its own file with the code script.
 
 ## Projects
-### Data Exploration in SQL - Nashville Housing Data
+#### Data Exploration in SQL - Nashville Housing Data
 #### Data Correlation in Python - Movies Data
-### Data Cleaning in SQL - COVID 19 Data
+#### Data Cleaning in SQL - COVID 19 Data
 
 ## About Me
 

@@ -6,6 +6,7 @@ Welcome to my data analytics portfolio repository! Here you will find a collecti
 #### Data Exploration in SQL - Nashville Housing Data
 #### Data Correlation in Python - Movies Data
 #### Data Cleaning in SQL - COVID 19 Data
+####Amazon Web scrapping Project - Python
 
 ## About Me
 

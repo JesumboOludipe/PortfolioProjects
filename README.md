@@ -7,19 +7,18 @@ Welcome to my data analytics portfolio repository! Here you will find a collecti
 I am a passionate data analyst with a strong background and 3 years of experience in SQL, Tableau, Python, and Spreadsheets. I have a proven ability to convert complex data into actionable insights that drive business growth and improve decision-making. I am skilled in data analysis and visualization, developing efficient dashboards and reports for stakeholder communication.  I have created relevant projects using these tools, and I am continually working to improve my skills.
 
 ## Projects
-#### Data Exploration in SQL - Nashville Housing Data
-Description: The goal of this project is to perform data exploration and analysis on the Nashville Housing Data using SQL. The dataset contains information on the properties sold in Nashville from 2013 to 2019, including details such as location, sale date, sale price, square footage, and number of bedrooms and bathrooms. By leveraging SQL queries and functions, we aim to gain insights into the Nashville housing market, such as trends in prices, popular locations, and housing preferences.
+### Data Cleaning in SQL - Nashville Housing Data
+**Script:** [Data Cleaning in SQL - Nashville Housing Data](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Data%20Cleaning%20in%20SQL%20-%20Nashville%20Housing%20Data.sql)
+**Description:** The objective of this project was to perform data cleaning on the Nashville Housing Data using SQL. The dataset contained information on the properties sold in Nashville from 2013 to 2019, including details such as location, sale price, square footage, and number of bedrooms and bathrooms. The data may have contained inconsistencies, missing values, and errors, which could affect the accuracy and reliability of the analysis. Therefore, the project aimed to identify and resolve these issues, ensuring that the data was accurate and consistent.
+**Skills:** The project required proficiency in SQL, including the ability to write complex queries, aggregate functions, and data manipulation statements. Familiarity with data cleaning techniques such as data profiling, data normalization, and data standardization was also necessary. Additionally, knowledge of data quality assessment and data governance principles enhanced the quality of the data cleaning process.
+**Technology:** SQL Server, Excel.
+**Result:** The project resulted in a cleaned and standardized dataset, ensuring that the data was accurate and consistent. This led to more reliable analysis and insights into the Nashville housing market, which could be used by real estate professionals, investors, and policymakers to make informed decisions about buying, selling, and developing properties in Nashville. Additionally, the project can serve as a template for data cleaning in other markets and industries, enabling organizations to improve the quality of their data and enhance their decision-making capabilities.
 
-Skills: The project requires proficiency in SQL, including the ability to write complex queries and aggregate functions. Familiarity with data exploration techniques such as filtering, sorting, and grouping is also necessary. Additionally, knowledge of statistical analysis and visualization tools can enhance the quality of the insights gained from the data.
 
-Technology: SQL Server, Excel.
-
-Result: The project provided valuable insights into the Nashville housing market, such as trends in prices, popular locations, and housing preferences. These insights could be used by real estate professionals and investors to make informed decisions about buying and selling properties in Nashville. Additionally, the project can serve as a template for data exploration and analysis in other markets and industries.
-
-#### Data Correlation in Python - Movies Data
-#### Data Cleaning in SQL - COVID 19 Data
-#### Amazon Web Scrapping Project - Python
-#### Sylip Corporation Sales Analysis - SQl
+### Data Correlation in Python - Movies Data
+### Data Cleaning in SQL - COVID 19 Data
+### Amazon Web Scrapping Project - Python
+### Sylip Corporation Sales Analysis - SQL
 
 
 

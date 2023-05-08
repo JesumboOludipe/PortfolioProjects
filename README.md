@@ -9,6 +9,7 @@ I am a passionate data analyst with a strong background and 3 years of experienc
 ## Projects
 ### Data Cleaning in SQL - Nashville Housing Data
 **Script:** [Data Cleaning in SQL - Nashville Housing Data](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Data%20Cleaning%20in%20SQL%20-%20Nashville%20Housing%20Data.sql)
+
 **Description:** The objective of this project was to perform data cleaning on the Nashville Housing Data using SQL. The dataset contained information on the properties sold in Nashville from 2013 to 2019, including details such as location, sale price, square footage, and number of bedrooms and bathrooms. The data may have contained inconsistencies, missing values, and errors, which could affect the accuracy and reliability of the analysis. Therefore, the project aimed to identify and resolve these issues, ensuring that the data was accurate and consistent.
 **Skills:** The project required proficiency in SQL, including the ability to write complex queries, aggregate functions, and data manipulation statements. Familiarity with data cleaning techniques such as data profiling, data normalization, and data standardization was also necessary. Additionally, knowledge of data quality assessment and data governance principles enhanced the quality of the data cleaning process.
 **Technology:** SQL Server, Excel.

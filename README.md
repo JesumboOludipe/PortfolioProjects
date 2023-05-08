@@ -15,7 +15,7 @@ My CV in [pdf](https://drive.google.com/file/d/1SKc5Ug2jjlOU-byNBj5oX75r_f5Buh6m
 My [Portfolio Website](https://jesumbooludipe.github.io/) 
 
 ## Projects
-### Data Cleaning in SQL - Nashville Housing Data ([View Script])(https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Data%20Cleaning%20in%20SQL%20-%20Nashville%20Housing%20Data.sql)
+### Data Cleaning in SQL - Nashville Housing Data ([View Script](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Data%20Cleaning%20in%20SQL%20-%20Nashville%20Housing%20Data.sql))
 
 **Description:** The objective of this project was to perform data cleaning on the Nashville Housing Data using SQL. The dataset contained information on the properties sold in Nashville from 2013 to 2019, including details such as location, sale price, square footage, and number of bedrooms and bathrooms. The data may have contained inconsistencies, missing values, and errors, which could affect the accuracy and reliability of the analysis. Therefore, the project aimed to identify and resolve these issues, ensuring that the data was accurate and consistent.
 

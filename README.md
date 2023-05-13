@@ -16,7 +16,17 @@ My [Portfolio Website](https://jesumbooludipe.github.io/)
 
 ## Projects
 
-### Sylip Corporation Sales Analysis ([View Script](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Sylip%20Corporation%20Sales%20Analysis%20-%20SQL.sql)
+### Data-Driven Customer Behavior Analysis and Cross-Selling Opportunities in a Spanish Bank ([View Project](https://github.com/JesumboOludipe/PortfolioProjects/tree/main/Cross%20Selling%20Recommendations%20for%20Banking%20Products))
+**Description:** This project aimed to analyze the customer behavior of a large Spanish bank and identify cross-selling opportunities to increase revenue. The dataset contained over 13 million records of customer data, including the various products they own. The project utilized Python programming language and popular data analysis libraries such as Pandas, NumPy, and Matplotlib. The analysis involved several stages, including data cleaning, feature engineering, exploratory data analysis, and data visualization.
+
+**Skills:** The project required skills in data analysis, data cleaning, feature engineering, exploratory data analysis, data visualization, and programming in Python. The ability to communicate findings and make recommendations based on insights from the data was also essential.
+
+**Technology:** The project utilized Python programming language and popular data analysis libraries such as Pandas, NumPy, and Matplotlib. The analysis was conducted on a Jupyter Notebook environment.
+
+**Result:** The analysis revealed several insights into customer behavior and identified cross-selling opportunities for the bank. The majority of customers were female, and the largest age group was 41-60 years old. Customers with an income of 50,000 - 100,000 were the largest income group. The majority of customers owned 0-2 products, presenting an opportunity for cross-selling. The most commonly owned products were current accounts and debit cards, while the least commonly owned products were savings accounts and guarantees. The analysis identified the top 10 cross-selling opportunities for the bank. Based on these insights, the bank could develop targeted marketing campaigns, train employees on cross-selling, streamline product offerings, improve the customer experience, focus on customers who own only one product, analyze product bundles, analyze customer behavior, and leverage customer feedback to increase cross-selling and revenue. This project demonstrated the value of data analysis and visualization in understanding customer behavior and identifying business opportunities.
+
+
+### Sylip Corporation Sales Analysis ([View Script](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Sylip%20Corporation%20Sales%20Analysis%20-%20SQL.sql))
 **Description:** The Sylip Corporation Sales Analysis project involved utilizing sales data from a retail company that specializes in various products. The aim was to provide the company with valuable insights into key performance indicators (KPIs) such as region-wise profits, annual revenue, and yearly units sold. The project involved data manipulation, analysis, and visualization to provide actionable recommendations that could improve the company's profitability and overall performance.
 
 **Skills:** The project required skills in data manipulation, analysis, and visualization. Knowledge of SQL Server, Excel, and Power BI was necessary to extract, clean, and analyze the data.
@@ -46,7 +56,7 @@ Excel was used to store and manage the sales data. SQL Server was utilized for d
 
 **Result:** The project resulted in identifying the key factors that affect the gross revenue of movies. The analysis found that factors such as budget, production company, director, and user ratings had a significant correlation with the gross revenue of movies. The results could be used by movie industry professionals, investors, and policymakers to make informed decisions about movie production, marketing, and distribution. Additionally, the project provided a framework for correlation analysis in other industries and datasets, enabling organizations to gain insights into their success factors.
 
-### Data Cleaning in SQL - COVID 19 Data
+### Data Cleaning in SQL - COVID 19 Data ([View Script](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Data%20Exploration%20Project%20in%20SQL%20-%20COVID%2019%20Data.sql))
 **Description:** The aim of this project was to explore and analyze the COVID-19 data using SQL. The dataset consisted of daily COVID-19 case and death counts for countries worldwide, with over 85,000 records spanning from January 2020 to April 2021. The project aimed to identify trends and patterns in the data, providing insights into the COVID-19 pandemic's global impact.
 
 **Skills:** The project required proficiency in SQL, including data cleaning, manipulation and data aggregation. 
@@ -55,7 +65,7 @@ Excel was used to store and manage the sales data. SQL Server was utilized for d
 
 **Result:** The project resulted in identifying the most affected countries, the trend of COVID-19 cases and deaths over time, and the mortality rates worldwide. The analysis found that countries with higher populations tended to have higher case counts and mortality rates. Additionally, the analysis helped in identifying the spikes and drops in the cases and deaths for each country, which correlated with their preventive measures. The insights could be used to inform public health policy and decision-making related to COVID-19. Overall, the project demonstrated the power of SQL in extracting valuable insights from large and complex datasets.
 
-### Amazon Web Scrapping Project - Python
+### Amazon Web Scrapping Project - Python ([View Code](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Amazon%20Web%20Scrapping%20Project%20-%20Python.ipynb))
 **Description:** The Amazon Web Scraping Project involved using Python to scrape price data from the Amazon website. The goal was to collect information such as product names, prices, and other relevant details for various products. The project aimed to provide a useful tool for price comparison and checking across different products.
 
 **Skills:** The project required knowledge of web scraping techniques, data cleaning, and manipulation using Python. Knowledge of libraries such as BeautifulSoup and Requests was necessary to scrape and extract the data.

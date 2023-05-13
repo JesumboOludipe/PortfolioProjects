@@ -37,7 +37,7 @@ Excel was used to store and manage the sales data. SQL Server was utilized for d
 **Result:** The project resulted in a comprehensive analysis of sales data that provided the company with valuable insights into critical KPIs such as region-wise profits, annual revenue, and yearly units sold. Through the project, actionable recommendations were provided that could improve the company's profitability and overall performance. The project demonstrated the power of data analysis and visualization in driving business decisions and performance. Overall, the project showcased the ability to leverage Excel, SQL Server, and Power BI to extract, analyze, and visualize data to provide actionable insights and recommendations.
 
 **Dashboard:**
-[Image](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Sylip%20Corporation%20Sales%20Analysis%20-%20SQL%20and%20Power%20BI/sylip.png)
+![Image](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Sylip%20Corporation%20Sales%20Analysis%20-%20SQL%20and%20Power%20BI/sylip.png)
 
 
 ### Data Cleaning in SQL - Nashville Housing Data ([View Script](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Data%20Cleaning%20in%20SQL%20-%20Nashville%20Housing%20Data.sql))

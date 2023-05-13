@@ -77,6 +77,6 @@ Excel was used to store and manage the sales data. SQL Server was utilized for d
 
 ## Contact
 
-If you have any questions or would like to collaborate on a project, please feel free to contact me at oludipejesumboj@gmail.com, or visit my LinkedIn profile @Jesumbo Oludipe
+If you have any questions or would like to collaborate on a project, please feel free to contact me at oludipejesumboj@gmail.com, or visit my LinkedIn profile [@Jesumbo Oludipe](https://www.linkedin.com/in/jesumbooludipe/)
 
 Thank you for visiting my portfolio!

@@ -26,7 +26,7 @@ My [Portfolio Website](https://jesumbooludipe.github.io/)
 **Result:** The analysis revealed several insights into customer behavior and identified cross-selling opportunities for the bank. The majority of customers were female, and the largest age group was 41-60 years old. Customers with an income of 50,000 - 100,000 were the largest income group. The majority of customers owned 0-2 products, presenting an opportunity for cross-selling. The most commonly owned products were current accounts and debit cards, while the least commonly owned products were savings accounts and guarantees. The analysis identified the top 10 cross-selling opportunities for the bank. Based on these insights, the bank could develop targeted marketing campaigns, train employees on cross-selling, streamline product offerings, improve the customer experience, focus on customers who own only one product, analyze product bundles, analyze customer behavior, and leverage customer feedback to increase cross-selling and revenue. This project demonstrated the value of data analysis and visualization in understanding customer behavior and identifying business opportunities.
 
 
-### Sylip Corporation Sales Analysis ([View Script](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Sylip%20Corporation%20Sales%20Analysis%20-%20SQL.sql))
+### Sylip Corporation Sales Analysis ([View Project](https://github.com/JesumboOludipe/PortfolioProjects/tree/main/Sylip%20Corporation%20Sales%20Analysis%20-%20SQL%20and%20Power%20BI))
 **Description:** The Sylip Corporation Sales Analysis project involved utilizing sales data from a retail company that specializes in various products. The aim was to provide the company with valuable insights into key performance indicators (KPIs) such as region-wise profits, annual revenue, and yearly units sold. The project involved data manipulation, analysis, and visualization to provide actionable recommendations that could improve the company's profitability and overall performance.
 
 **Skills:** The project required skills in data manipulation, analysis, and visualization. Knowledge of SQL Server, Excel, and Power BI was necessary to extract, clean, and analyze the data.
@@ -35,6 +35,10 @@ My [Portfolio Website](https://jesumbooludipe.github.io/)
 Excel was used to store and manage the sales data. SQL Server was utilized for data cleaning and manipulation, while Power BI was used for data visualization and presentation.
 
 **Result:** The project resulted in a comprehensive analysis of sales data that provided the company with valuable insights into critical KPIs such as region-wise profits, annual revenue, and yearly units sold. Through the project, actionable recommendations were provided that could improve the company's profitability and overall performance. The project demonstrated the power of data analysis and visualization in driving business decisions and performance. Overall, the project showcased the ability to leverage Excel, SQL Server, and Power BI to extract, analyze, and visualize data to provide actionable insights and recommendations.
+
+**Dashboard:**
+[](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Sylip%20Corporation%20Sales%20Analysis%20-%20SQL%20and%20Power%20BI/sylip.png)
+
 
 ### Data Cleaning in SQL - Nashville Housing Data ([View Script](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Data%20Cleaning%20in%20SQL%20-%20Nashville%20Housing%20Data.sql))
 

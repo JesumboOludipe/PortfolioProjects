@@ -15,6 +15,17 @@ My CV in [pdf](https://drive.google.com/file/d/1SKc5Ug2jjlOU-byNBj5oX75r_f5Buh6m
 My [Portfolio Website](https://jesumbooludipe.github.io/) 
 
 ## Projects
+
+### Sylip Corporation Sales Analysis ([View Script](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Sylip%20Corporation%20Sales%20Analysis%20-%20SQL.sql)
+**Description:** The Sylip Corporation Sales Analysis project involved utilizing sales data from a retail company that specializes in various products. The aim was to provide the company with valuable insights into key performance indicators (KPIs) such as region-wise profits, annual revenue, and yearly units sold. The project involved data manipulation, analysis, and visualization to provide actionable recommendations that could improve the company's profitability and overall performance.
+
+**Skills:** The project required skills in data manipulation, analysis, and visualization. Knowledge of SQL Server, Excel, and Power BI was necessary to extract, clean, and analyze the data.
+
+**Technology:**
+Excel was used to store and manage the sales data. SQL Server was utilized for data cleaning and manipulation, while Power BI was used for data visualization and presentation.
+
+**Result:** The project resulted in a comprehensive analysis of sales data that provided the company with valuable insights into critical KPIs such as region-wise profits, annual revenue, and yearly units sold. Through the project, actionable recommendations were provided that could improve the company's profitability and overall performance. The project demonstrated the power of data analysis and visualization in driving business decisions and performance. Overall, the project showcased the ability to leverage Excel, SQL Server, and Power BI to extract, analyze, and visualize data to provide actionable insights and recommendations.
+
 ### Data Cleaning in SQL - Nashville Housing Data ([View Script](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Data%20Cleaning%20in%20SQL%20-%20Nashville%20Housing%20Data.sql))
 
 **Description:** The objective of this project was to perform data cleaning on the Nashville Housing Data using SQL. The dataset contained information on the properties sold in Nashville from 2013 to 2019, including details such as location, sale price, square footage, and number of bedrooms and bathrooms. The data may have contained inconsistencies, missing values, and errors, which could affect the accuracy and reliability of the analysis. Therefore, the project aimed to identify and resolve these issues, ensuring that the data was accurate and consistent.
@@ -36,9 +47,22 @@ My [Portfolio Website](https://jesumbooludipe.github.io/)
 **Result:** The project resulted in identifying the key factors that affect the gross revenue of movies. The analysis found that factors such as budget, production company, director, and user ratings had a significant correlation with the gross revenue of movies. The results could be used by movie industry professionals, investors, and policymakers to make informed decisions about movie production, marketing, and distribution. Additionally, the project provided a framework for correlation analysis in other industries and datasets, enabling organizations to gain insights into their success factors.
 
 ### Data Cleaning in SQL - COVID 19 Data
-### Amazon Web Scrapping Project - Python
-### Sylip Corporation Sales Analysis - SQL
+**Description:** The aim of this project was to explore and analyze the COVID-19 data using SQL. The dataset consisted of daily COVID-19 case and death counts for countries worldwide, with over 85,000 records spanning from January 2020 to April 2021. The project aimed to identify trends and patterns in the data, providing insights into the COVID-19 pandemic's global impact.
 
+**Skills:** The project required proficiency in SQL, including data cleaning, manipulation and data aggregation. 
+
+**Technology:** The project used SQL for data exploration and analysis, leveraging the SQL Server Management Studio. 
+
+**Result:** The project resulted in identifying the most affected countries, the trend of COVID-19 cases and deaths over time, and the mortality rates worldwide. The analysis found that countries with higher populations tended to have higher case counts and mortality rates. Additionally, the analysis helped in identifying the spikes and drops in the cases and deaths for each country, which correlated with their preventive measures. The insights could be used to inform public health policy and decision-making related to COVID-19. Overall, the project demonstrated the power of SQL in extracting valuable insights from large and complex datasets.
+
+### Amazon Web Scrapping Project - Python
+**Description:** The Amazon Web Scraping Project involved using Python to scrape price data from the Amazon website. The goal was to collect information such as product names, prices, and other relevant details for various products. The project aimed to provide a useful tool for price comparison and checking across different products.
+
+**Skills:** The project required knowledge of web scraping techniques, data cleaning, and manipulation using Python. Knowledge of libraries such as BeautifulSoup and Requests was necessary to scrape and extract the data.
+
+**Technology:** Python was used for web scraping and data manipulation, with libraries such as BeautifulSoup and Requests utilized to extract and clean the data. Additionally, data visualization tools such as Matplotlib and Pandas were used to visualize and present the data.
+
+**Result:** The project resulted in a dataset that provided information on product names, prices, and other relevant details. The data could be used for price comparison and checking across different products, providing a valuable tool for consumers and retailers alike. The project also demonstrated the power of web scraping techniques and their potential for gathering valuable data from websites. Overall, the project showcased the ability to leverage Python and web scraping techniques to extract and analyze data from the web.
 
 
 ## Contact

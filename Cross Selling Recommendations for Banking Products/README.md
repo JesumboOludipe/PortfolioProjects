@@ -18,7 +18,7 @@ Based on this analysis, the bank can focus its marketing efforts towards the inc
 
 The analysis also looked at the distribution of the number of products owned by customers. The majority of customers owned 0-2 products, with a small percentage owning 5 or more products. This information can be helpful in targeting different customer segments with personalized marketing strategies.
 The bank’s customer data analysis has revealed significant potential for cross-selling and revenue growth. Almost half of the customers have only one bank product, while more than a quarter have none, indicating a vast opportunity to increase the number of bank products held by customers. To capitalize on this potential, the bank should identify the needs and preferences of its customers and offer them relevant products that could benefit them.
-The analysis shows that the most commonly owned products were current accounts and debit cards, while the least commonly owned products were savings accounts and guarntees. The bank should monitor the usage patterns of different account types and adjust its marketing and promotional strategies accordingly. By doing so, the bank can retain customers and attract new ones.
+The analysis shows that the most commonly owned products were current accounts and debit cards, while the least commonly owned products were savings accounts and guarantees. The bank should monitor the usage patterns of different account types and adjust its marketing and promotional strategies accordingly. By doing so, the bank can retain customers and attract new ones.
 
 Furthermore, I identified the top 10 cross-selling opportunities for the bank, such as cross-selling particular accounts to current account customers and payroll accounts to customers interested in pension plans and direct debits. Based on these insights, the bank can create targeted marketing campaigns to promote cross-selling opportunities, such as offering attractive packages that combine payroll accounts with pension plans or direct debits. By implementing these strategies, the bank can increase its cross-selling rates and generate more revenue from its existing customer base.
 
@@ -26,6 +26,8 @@ Furthermore, I identified the top 10 cross-selling opportunities for the bank, s
 [Click here to view the dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzA2NDlkOTItZWQyYi00YmQwLWIyZTAtOTZjOTFjY2Y1OTdkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ![Dashboard](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Cross%20Selling%20Recommendations%20for%20Banking%20Products/cross%20sell.png)
+
+![Dashboard](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Cross%20Selling%20Recommendations%20for%20Banking%20Products/Cross%20Selling%20Dashboard.pdf)
 
 ## Recommendations
 To increase cross-selling and revenue at XYZ Credit Union, here are some recommendations:

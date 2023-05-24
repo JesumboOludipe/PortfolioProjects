@@ -22,6 +22,11 @@ The analysis shows that the most commonly owned products were current accounts a
 
 Furthermore, I identified the top 10 cross-selling opportunities for the bank, such as cross-selling particular accounts to current account customers and payroll accounts to customers interested in pension plans and direct debits. Based on these insights, the bank can create targeted marketing campaigns to promote cross-selling opportunities, such as offering attractive packages that combine payroll accounts with pension plans or direct debits. By implementing these strategies, the bank can increase its cross-selling rates and generate more revenue from its existing customer base.
 
+## Dashboard
+[Click here to view the dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzA2NDlkOTItZWQyYi00YmQwLWIyZTAtOTZjOTFjY2Y1OTdkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
+![Dashboard](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Cross%20Selling%20Recommendations%20for%20Banking%20Products/cross%20sell.png)
+
 ## Recommendations
 To increase cross-selling and revenue at XYZ Credit Union, here are some recommendations:
 1. Develop targeted marketing campaigns

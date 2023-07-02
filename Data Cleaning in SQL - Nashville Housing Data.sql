@@ -4,6 +4,8 @@ Cleaning Data in SQL Queries
 
 ******/
 
+-- Commands Used - SELECT, FROM, UPDATE, SET, WHERE, ALTER TABLE, ALTER COLUMN, GROUP  BY, ORDER BY, 
+		 -- ADD, INNER JOIN, DISTINCT, CASE WHEN, WITH, DROP COLUMN, NESTED QUERIES
 
 SELECT *
 FROM Portfolio..NashvilleHousing

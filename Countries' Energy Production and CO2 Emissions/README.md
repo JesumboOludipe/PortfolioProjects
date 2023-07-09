@@ -1,5 +1,5 @@
 
-# Energy and CO2 Emissions Analysis
+# World Energy and CO2 Emissions Analysis
 
 ## Introduction
 This project focuses on analyzing energy consumption and CO2 emissions data to gain insights into global energy trends and their environmental impact. The project utilizes SQL to extract, transform, and analyze data from a database containing information on energy consumption, energy production, GDP, population, and CO2 emissions.
@@ -15,7 +15,7 @@ The analysis performed in this project includes:
 1. Trend Analysis: Calculating and visualizing the yearly trends in energy consumption, energy production, and CO2 emissions.
 2. Correlation Analysis: Examining the relationships between energy consumption, GDP, population, and CO2 emissions using correlation coefficients.
 3. Regional Analysis: Analyzing energy consumption, energy production, and CO2 emissions by regions to identify regional patterns and differences.
-4. Country Analysis: Investigating energy profiles, CO2 emissions, and energy intensity metrics for individual countries to identify notable cases and trends.
+4. Country Analysis: Investigating the energy profiles, CO2 emissions, and energy intensity metrics for individual countries to identify notable cases and trends.
 
 ## Results
 The key findings from the analysis include:
@@ -50,11 +50,20 @@ The key findings from the analysis include:
 #### World CO2 emissions and Population from 1980 to 2019
 #### World Energy Consumption, Energy Production, and deficit or surplus from 1980 to 2019
 #### World Energy Consumption and Energy Production for each energy type in the most recent year (2019)
+
+![Energy Types](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/energy%20types.png)
+
+![Energy Types Tables](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Results/Energy%20types%20table.png)
 #### Total C02 emission from each energy type in the most recent year (2019)
 
 ### TREND ANALYSIS
 #### Yearly World CO2 Emissions (1980-2019)
 #### Year-on-Year World CO2 Emissions Difference and Percentage Difference
+![YoY](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/YoY.png)
+
+![YoY Tablea](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Results/YoYa.png)
+
+![YoY Tablea](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Results/YoYb.png)
 
 ### CORRELATION ANALYSIS
 #### Correlation Coefficients between energy consumption, GDP, population, and CO2 emissions

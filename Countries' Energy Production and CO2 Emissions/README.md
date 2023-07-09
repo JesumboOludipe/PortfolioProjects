@@ -22,7 +22,7 @@ The key findings from the analysis include:
 
 - Trend Analysis: The energy consumption and CO2 emissions have generally increased over the years, while energy production has shown some variations.
 - Correlation Analysis: A positive correlation exists between energy consumption and CO2 emissions, with varying strengths across different countries.
-- Regional Analysis: Regions with higher GDP tend to have higher energy consumption and CO2 emissions, but the intensity levels vary. The regions with the most O2 Emissions are Asia, Europe and the Americas
+- Regional Analysis: Regions with higher GDP tend to have higher energy consumption and CO2 emissions, but the intensity levels vary. The regions with the most O2 Emissions are Asia, Europe, and the Americas
 - Country Analysis: Certain countries exhibit higher energy intensity or CO2 emissions, providing insights into potential areas for improvement and policy interventions.
 
 ## Code and Tables
@@ -35,16 +35,20 @@ The key findings from the analysis include:
 -- WORLDWIDE ANALYSIS
 -- World Energy and CO2 Emissions Data in the most recent year (2019)
 
-![World](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/2.png)
+![World2019](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/2.png)
 
-![World Data Table](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Results/World%20data.png)
+![World2019 Table](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Results/World%20data.png)
 
 
 -- World Energy and CO2 Emissions Data from 1980 to 2019
+
+![World 1980 - 2019](
+
+![World 1980 - 2019]
 -- World CO2 emissions and Population from 1980 to 2019
 -- World Energy Consumption, Energy Production, and deficit or surplus from 1980 to 2019
--- World Energy Consumption and Energy Production for each energy type in most recent year (2019)
--- Total C02 emmission from each energy type in most recent year (2019)
+-- World Energy Consumption and Energy Production for each energy type in the most recent year (2019)
+-- Total C02 emission from each energy type in the most recent year (2019)
 
 -- TREND ANALYSIS
 -- Yearly World CO2 Emissions (1980-2019)

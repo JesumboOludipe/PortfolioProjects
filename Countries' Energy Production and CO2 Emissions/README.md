@@ -25,6 +25,8 @@ The key findings from the analysis include:
 - Regional Analysis: Regions with higher GDP tend to have higher energy consumption and CO2 emissions, but the intensity levels vary. The regions with the most O2 Emissions are Asia, Europe and the Americas
 - Country Analysis: Certain countries exhibit higher energy intensity or CO2 emissions, providing insights into potential areas for improvement and policy interventions.
 
+## Code and Tables
+![World](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/carbon(1).png)
 ## Usage and Future Work
 This project can serve as a starting point for further analysis and exploration of energy and CO2 emissions data. The SQL code provided can be modified and expanded to incorporate additional analysis or explore specific research questions.
 

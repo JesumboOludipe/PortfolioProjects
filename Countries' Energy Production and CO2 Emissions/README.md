@@ -32,15 +32,14 @@ The key findings from the analysis include:
 -- GDP  (Billion 2015$ PPP), Population (MPerson) , Energy_intensity_per_capita (MMBtu/person), 
 -- Energy_intensity_by_GDP (1000 Btu/2015$ GDP PPP), and CO2 Emmissions  (MMtonnes CO2).
 
--- WORLDWIDE ANALYSIS
--- World Energy and CO2 Emissions Data in the most recent year (2019)
+### WORLDWIDE ANALYSIS
+### World Energy and CO2 Emissions Data in the most recent year (2019)
 
 ![World2019](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/World2019.png)
 
 ![World2019 Table](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Results/World%20data.png)
 
-
--- World Energy and CO2 Emissions Data from 1980 to 2019
+### World Energy and CO2 Emissions Data from 1980 to 2019
 
 ![World 1980 - 2019](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/World1980.png)
 

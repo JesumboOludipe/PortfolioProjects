@@ -33,7 +33,7 @@ The key findings from the analysis include:
 -- Energy_intensity_by_GDP (1000 Btu/2015$ GDP PPP), and CO2 Emmissions  (MMtonnes CO2).
 
 ### WORLDWIDE ANALYSIS
-### World Energy and CO2 Emissions Data in the most recent year (2019)
+#### World Energy and CO2 Emissions Data in the most recent year (2019)
 
 ![World2019](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/World2019.png)
 
@@ -46,20 +46,21 @@ The key findings from the analysis include:
 ![World 1980 - 2019 Tablea](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Results/World%201980a.png)
 
 ![World 1980 - 2019 Tableb](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Results/World%201980b.png)
--- World CO2 emissions and Population from 1980 to 2019
--- World Energy Consumption, Energy Production, and deficit or surplus from 1980 to 2019
--- World Energy Consumption and Energy Production for each energy type in the most recent year (2019)
--- Total C02 emission from each energy type in the most recent year (2019)
 
--- TREND ANALYSIS
--- Yearly World CO2 Emissions (1980-2019)
--- Year-on-Year World CO2 Emissions Difference and Percentage Difference
+### World CO2 emissions and Population from 1980 to 2019
+### World Energy Consumption, Energy Production, and deficit or surplus from 1980 to 2019
+### World Energy Consumption and Energy Production for each energy type in the most recent year (2019)
+### Total C02 emission from each energy type in the most recent year (2019)
 
--- CORRELATION ANALYSIS
--- Correlation Coefficients between energy consumption, GDP, population, and CO2 emissions
+### TREND ANALYSIS
+#### Yearly World CO2 Emissions (1980-2019)
+### Year-on-Year World CO2 Emissions Difference and Percentage Difference
 
--- REGIONAL ANALYSIS
--- Unique Regions
+### CORRELATION ANALYSIS
+### Correlation Coefficients between energy consumption, GDP, population, and CO2 emissions
+
+### REGIONAL ANALYSIS
+#### Unique Regions
 -- Regional GDP, Population, and CO2 Emissions in most recent year (2019)
 -- Energy_consumption, Energy_production, and CO2 Emissions by Region
 -- CO2 Emissions and Percentage of Total by Region

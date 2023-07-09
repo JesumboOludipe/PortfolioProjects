@@ -35,16 +35,18 @@ The key findings from the analysis include:
 -- WORLDWIDE ANALYSIS
 -- World Energy and CO2 Emissions Data in the most recent year (2019)
 
-![World2019](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/2.png)
+![World2019](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/World2019.png)
 
 ![World2019 Table](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Results/World%20data.png)
 
 
 -- World Energy and CO2 Emissions Data from 1980 to 2019
 
-![World 1980 - 2019](
+![World 1980 - 2019](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/World1980.png)
 
-![World 1980 - 2019]
+![World 1980 - 2019 Tablea](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Results/World%201980a.png)
+
+![World 1980 - 2019 Tableb](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Results/World%201980b.png)
 -- World CO2 emissions and Population from 1980 to 2019
 -- World Energy Consumption, Energy Production, and deficit or surplus from 1980 to 2019
 -- World Energy Consumption and Energy Production for each energy type in the most recent year (2019)

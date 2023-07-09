@@ -27,6 +27,8 @@ The key findings from the analysis include:
 
 ## Code and Tables
 ![World](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/carbon(1).png)
+
+!(https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/2.png)
 ## Usage and Future Work
 This project can serve as a starting point for further analysis and exploration of energy and CO2 emissions data. The SQL code provided can be modified and expanded to incorporate additional analysis or explore specific research questions.
 

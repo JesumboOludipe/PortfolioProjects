@@ -5,8 +5,8 @@
 This project focuses on analyzing energy consumption and CO2 emissions data to gain insights into global energy trends and their environmental impact. The project utilizes SQL to extract, transform, and analyze data from a database containing information on energy consumption, energy production, GDP, population, and CO2 emissions.
 
 ## Skills 
-- SQL: Proficient in writing SQL queries to extract and manipulate data.
-- Data Analysis: Able to perform various analytical tasks, including trend analysis, correlation analysis, and comparative analysis.
+- SQL: Utilized SQL queries to extract and manipulate data.
+- Data Analysis: Performed various analytical tasks, including trend analysis, correlation analysis, and comparative analysis.
 - Visualization: Plan to use visualization tools (e.g., Python's matplotlib, Power BI) to visualize data and generate meaningful charts and graphs.
 
 ## Analysis

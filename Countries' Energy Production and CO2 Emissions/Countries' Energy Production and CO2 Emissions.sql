@@ -5,16 +5,16 @@
 
 -- COLUMNS AND UNITS
 -- Country, Energy Type, Year (1980 - 2019), Energy Consumption (quad Btu), Energy Production (quad Btu), 
--- GDP  (Billion 2015$ PPP), Population (MPerson) , Energy_intensity_per_capita (MMBtu/person), 
+-- Gross Domestic Product - GDP  (Billion 2015$ PPP), Population (MPerson) , Energy_intensity_per_capita (MMBtu/person), 
 -- Energy_intensity_by_GDP (1000 Btu/2015$ GDP PPP), and CO2 Emmissions  (MMtonnes CO2).
 
 -- WORLDWIDE ANALYSIS
 -- World Energy and CO2 Emissions Data in most recent year (2019)
 -- World Energy and CO2 Emissions Data from 1980 to 2019
--- World CO2 emmissions and Population from 1980 to 2019
+-- World CO2 emissions and Population from 1980 to 2019
 -- World Energy Consumption, Energy Production, and deficit or surplus from 1980 to 2019
 -- World Energy Consumption and Energy Production for each energy type in most recent year (2019)
--- Total C02 emmission from each energy type in most recent year (2019)
+-- Total C02 emission from each energy type in most recent year (2019)
 
 -- TREND ANALYSIS
 -- Yearly World CO2 Emissions (1980-2019)
@@ -70,7 +70,7 @@ FROM ENERGY
 WHERE Country = 'World'
 AND Energy_type = 'all_energy_types'
 
--- World CO2 emmissions (MMtonnes) and Population (MPerson) from 1980 to 2019
+-- World CO2 emissions and Population from 1980 to 2019
 
 SELECT Year, Population, CO2_emission 
 FROM ENERGY
@@ -288,7 +288,7 @@ ORDER BY Population DESC
 
 -- Top 10 Countries by C02 Emissions And Percentage of Total in 2019
 
-SELECT TOP 10 Country,
+SELECT TOP 10 Country, 
        CO2_emission,
        ROUND (CO2_emission / (SELECT SUM(CO2_emission) 
 					   FROM ENERGY 

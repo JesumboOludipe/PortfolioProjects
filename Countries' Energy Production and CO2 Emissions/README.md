@@ -27,10 +27,8 @@ The key findings from the analysis include:
 
 ## Code and Tables
 
--- COLUMNS AND UNITS
--- Country, Energy Type, Year (1980 - 2019), Energy Consumption (quad Btu), Energy Production (quad Btu), 
--- GDP  (Billion 2015$ PPP), Population (MPerson) , Energy_intensity_per_capita (MMBtu/person), 
--- Energy_intensity_by_GDP (1000 Btu/2015$ GDP PPP), and CO2 Emmissions  (MMtonnes CO2).
+### COLUMNS AND UNITS
+Country, Energy Type, Year (1980 - 2019), Energy Consumption (quad Btu), Energy Production (quad Btu),  GDP  (Billion 2015$ PPP), Population (MPerson), Energy_intensity_per_capita (MMBtu/person), Energy_intensity_by_GDP (1000 Btu/2015$ GDP PPP), and CO2 Emissions (MMtonnes CO2).
 
 ### WORLDWIDE ANALYSIS
 #### World Energy and CO2 Emissions Data in the most recent year (2019)

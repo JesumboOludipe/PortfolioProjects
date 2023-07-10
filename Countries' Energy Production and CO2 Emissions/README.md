@@ -91,7 +91,7 @@ Country, Energy Type, Year (1980 - 2019), Energy Consumption (quad Btu), Energy 
 
 #### Top 10 Countries by GDP, Population, Energy_consumption, Energy_production, and CO2 Emissions, Percentage of Total, ranked by CO2 Emissions
 
-![Country CO2](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Country%20CO2.png
+![Country CO2](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Country%20CO2.png)
 
 ![Country CO2 Table](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Results/Country%20CO2%20Table.png)
 

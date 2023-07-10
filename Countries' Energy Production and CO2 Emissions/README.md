@@ -55,7 +55,7 @@ The key findings from the analysis include:
 
 ### TREND ANALYSIS
 
-#### Year-on-Year World CO2 Emissions Difference and Percentage Difference
+#### Year-on-Year World CO2 Emissions Difference, Percentage Difference, and their Averages
 ![YoY](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/YoY.png)
 
 ![YoY Tablea](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Results/YoYa.png)
@@ -65,17 +65,44 @@ The key findings from the analysis include:
 ### CORRELATION ANALYSIS
 #### Correlation Coefficients between energy consumption, GDP, population, and CO2 emissions
 
+![Corr](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Corr.png)
+
+![Corr Table](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Results/Corr%20Table.png)
+
 ### REGIONAL ANALYSIS
 
 #### Regional GDP, Population, Energy_consumption, Energy_production, and CO2 Emissions, Percentage of Total, ranked by CO2 Emissions in 2019
 
+![Regional CO2](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Regional%20CO2.png)
+
+![Regional CO2 Table](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Results/Regional%20CO2%20Table.png)
+
 #### Region by Energy_intensity_per_capita, Energy_intensity_by_GDP
+
+![Regional Intensity](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Regional%20Intensity.png)
+
+![Regional Intensity Table](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Results/Regional%20Intensity%20table.png)
 
 ### COUNTRY ANALYSIS
 
-#### View a Particular country's energy and CO2 emissions data for the most recent year (2019)
+#### View a Particular country's energy and CO2 emissions data for the most recent year (2019). Nigeria and United States as examples
+
+![View Country](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/View%20Country.png)
+
+![View Country Table](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Results/View%20Country%20Table.png)
+
 #### Top 10 Countries by GDP, Population, Energy_consumption, Energy_production, and CO2 Emissions, Percentage of Total, ranked by CO2 Emissions
+
+![Country CO2](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Country%20CO2.png
+
+![Country CO2 Table](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Results/Country%20CO2%20Table.png)
+
 #### Top 10 Countries by Energy_intensity_per_capita, Energy_intensity_by_GDP
+
+![Country Intensity](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Country%20Intensity.png)
+
+![Country Intensity Table](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Results/Country%20Intensity%20Table.png)
+
 
 ## Usage and Future Work
 This project can serve as a starting point for further analysis and exploration of energy and CO2 emissions data. The SQL code provided can be modified and expanded to incorporate additional analysis or explore specific research questions.

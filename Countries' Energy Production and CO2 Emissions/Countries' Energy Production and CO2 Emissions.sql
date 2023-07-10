@@ -1,6 +1,44 @@
---Countries Energy Production, Production, CO2 Emission and many more...
+-- World Energy and CO2 Emissions Analysis
 
---VIEW ENTIRE TABLE
+-- COMMANDS & SKILLS USED - SELECT, FROM, UPDATE, SET, WHERE, ALTER TABLE, ALTER COLUMN, GROUP  BY, ORDER BY, LEFT JOIN,
+-- DISTINCT, CASE WHEN, WITH, DROP COLUMN, NESTED QUERIES, TEMP TABLES 
+
+-- COLUMNS AND UNITS
+-- Country, Energy Type, Year (1980 - 2019), Energy Consumption (quad Btu), Energy Production (quad Btu), 
+-- GDP  (Billion 2015$ PPP), Population (MPerson) , Energy_intensity_per_capita (MMBtu/person), 
+-- Energy_intensity_by_GDP (1000 Btu/2015$ GDP PPP), and CO2 Emmissions  (MMtonnes CO2).
+
+-- WORLDWIDE ANALYSIS
+-- World Energy and CO2 Emissions Data in most recent year (2019)
+-- World Energy and CO2 Emissions Data from 1980 to 2019
+-- World CO2 emmissions and Population from 1980 to 2019
+-- World Energy Consumption, Energy Production, and deficit or surplus from 1980 to 2019
+-- World Energy Consumption and Energy Production for each energy type in most recent year (2019)
+-- Total C02 emmission from each energy type in most recent year (2019)
+
+-- TREND ANALYSIS
+-- Yearly World CO2 Emissions (1980-2019)
+-- Year-on-Year World CO2 Emissions Difference and Percentage Difference
+
+-- CORRELATION ANALYSIS
+-- Correlation Coefficients between energy consumption, GDP, population, and CO2 emissions
+
+-- REGIONAL ANALYSIS
+-- Unique Regions
+-- Regional GDP, Population, and CO2 Emissions in most recent year (2019)
+-- Energy_consumption, Energy_production, and CO2 Emissions by Region
+-- CO2 Emissions and Percentage of Total by Region
+-- Region by Energy_intensity_per_capita, Energy_intensity_by_GDP
+
+-- COUNTRY ANALYSIS
+-- Unique Countries
+-- View a Particular country energy and CO2 emissions data for most recent year (2019)
+-- Countries by Energy_consumption, Energy_production, and CO2 Emissions
+-- Top 10 Countries by GDP, Population, and CO2 Emission, Ranked by Population
+-- Top 10 Countries by C02 Emissions And Percentage of Total in 2019
+-- Countries by Energy_intensity_per_capita, Energy_intensity_by_GDP
+
+-- VIEW ENTIRE TABLE
 
 SELECT *
 FROM ENERGY
@@ -14,13 +52,9 @@ FROM ENERGY
 LEFT JOIN CONTINENTS
 ON ENERGY.Country = CONTINENTS.Country
 
-  
--- COLUMNS AND UNITS
--- Country, Energy Type, Year (1980 - 2019), Energy Consumption (quad Btu), Energy Production (quad Btu), 
--- GDP  (Billion 2015$ PPP), Population (MPerson) , Energy_intensity_per_capita (MMBtu/person), 
--- Energy_intensity_by_GDP (1000 Btu/2015$ GDP PPP), and CO2 Emmissions  (MMtonnes CO2).
+-- World Energy and CO2 Emissions Analysis
 
---WORLDWIDE ANALYSIS
+-- WORLDWIDE ANALYSIS
 -- World Energy and CO2 Emissions Data in most recent year (2019)
 
 SELECT *
@@ -38,7 +72,7 @@ AND Energy_type = 'all_energy_types'
 
 -- World CO2 emmissions (MMtonnes) and Population (MPerson) from 1980 to 2019
 
-SELECT Country, Population, CO2_emission 
+SELECT Year, Population, CO2_emission 
 FROM ENERGY
 WHERE Country = 'World'
 AND Energy_type = 'all_energy_types'
@@ -65,6 +99,7 @@ FROM ENERGY
 WHERE Country = 'World'
 AND Year = 2019
 
+
 --TREND ANALYSIS
 
 -- Yearly World CO2 Emissions (1980-2019)
@@ -78,8 +113,9 @@ WHERE Country = 'World'
 	  AND Energy_type = 'all_energy_types'
 GROUP BY Year
 
---Year on Year World CO2 Emissions Difference and Percentage Difference
+-- Year on Year World CO2 Emissions Difference and Percentage Difference
 -- Create a regular table to store total CO2 emissions for each year
+
 CREATE TABLE #temp_total_emissions (
     Year INT,
     Total_CO2_emission DECIMAL(10, 2)
@@ -109,7 +145,6 @@ JOIN #temp_total_emissions t2 ON t1.Year = t2.Year + 1;
 SELECT Year, Total_CO2_emission, Yearly_Difference, Percentage_Difference
 FROM #temp_increases;
 
-
 -- Calculate average yearly difference and average percentage difference
 DECLARE @AverageYearlyDifference DECIMAL(10, 2);
 DECLARE @AveragePercentageDifference DECIMAL(10, 2);
@@ -126,10 +161,10 @@ SELECT @AverageYearlyDifference AS Average_Yearly_Difference,
 DROP TABLE #temp_total_emissions;
 DROP TABLE #temp_increases;
 
+
 -- CORRELATION ANALYSIS
--- Calculate Correlation Coefficients
--- Calculate Correlation Coefficients
--- Calculate Correlation Coefficients
+-- Correlation Coefficients between energy consumption, GDP, population, and CO2 emissions 
+
 SELECT
     (SUM(Energy_consumption * CO2_emission) - (SUM(Energy_consumption) * SUM(CO2_emission) / COUNT(*))) /
     (SQRT((SUM(POWER(Energy_consumption, 2)) - POWER(SUM(Energy_consumption), 2) / COUNT(*)) *
@@ -142,8 +177,6 @@ SELECT
         (SUM(POWER(CO2_emission, 2)) - POWER(SUM(CO2_emission), 2) / COUNT(*)))) AS Population_Emission_Correlation
 FROM ENERGY
 WHERE Energy_type = 'all_energy_types';
-
-
 
 
 -- REGIONAL ANALYSIS
@@ -183,8 +216,7 @@ WHERE Energy_type = 'all_energy_types'
 GROUP BY Region
 ORDER BY Regional_CO2_emission DESC
 
-
--- CO2 Emission by Region and Percentage of Total
+-- CO2 Emissions and Percentage of Total by Region
 
 SELECT Region,
        SUM(CO2_emission) AS Regional_CO2_emission,
@@ -201,7 +233,7 @@ WHERE Energy_type = 'all_energy_types'
 GROUP BY Region
 ORDER BY Regional_CO2_emission DESC;
 
--- Region by Energy_intensity_per_capita, Energy_intensity_by_GDP
+-- Energy_intensity_per_capita, Energy_intensity_by_GDP by Region
 
 SELECT Region, 
 	   SUM (Energy_intensity_per_capita) AS  Energy_intensity_per_capita, 
@@ -217,12 +249,13 @@ ORDER BY SUM (Energy_intensity_per_capita) DESC
 
 -- COUNTRY ANALYSIS
 
---Unique Countries
+-- Unique Countries
 
 SELECT COUNT (DISTINCT Country) AS Countries
 FROM ENERGY
 
--- View a Particular country energy data for most recent year (2019)
+-- View a Particular country energy and CO2 emissions data for most recent year (2019)
+
 SELECT *
 FROM ENERGY
 LEFT JOIN CONTINENTS ON ENERGY.Country = CONTINENTS.Country
@@ -244,16 +277,16 @@ AND Energy_type = 'all_energy_types'
 AND Country != 'World'
 ORDER BY CO2_emission DESC
 
---Top 10 Countries by GDP, Population, and CO2 Emission, Ranked by Population
+-- Top 10 Countries by GDP, Population, and CO2 Emission, Ranked by Population
 
-SELECT Country, GDP, Population, CO2_emission
+SELECT TOP 10 Country, GDP, Population, CO2_emission
 FROM ENERGY
 WHERE Year = 2019
 AND Energy_type = 'all_energy_types'
 AND Country != 'World'
 ORDER BY Population DESC
 
---Top 10 Countries by C02 Emissions And Percentage of Total in 2019
+-- Top 10 Countries by C02 Emissions And Percentage of Total in 2019
 
 SELECT TOP 10 Country,
        CO2_emission,
@@ -268,9 +301,9 @@ WHERE Year = 2019
       AND Country != 'World'
 ORDER BY CO2_emission DESC;
 
--- Countries by Energy_intensity_per_capita, Energy_intensity_by_GDP
+-- Top 10 Countries by Energy_intensity_per_capita, Energy_intensity_by_GDP
 
-SELECT Country, Energy_intensity_per_capita, Energy_intensity_by_GDP
+SELECT TOP 10 Country, Energy_intensity_per_capita, Energy_intensity_by_GDP
 FROM ENERGY
 WHERE Year = 2019
 AND Energy_type = 'all_energy_types'

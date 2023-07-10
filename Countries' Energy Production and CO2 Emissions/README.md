@@ -47,17 +47,14 @@ The key findings from the analysis include:
 
 ![World 1980 - 2019 Tableb](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Results/World%201980b.png)
 
-#### World CO2 emissions and Population from 1980 to 2019
-#### World Energy Consumption, Energy Production, and deficit or surplus from 1980 to 2019
-#### World Energy Consumption and Energy Production for each energy type in the most recent year (2019)
+#### World Energy Consumption, Energy Production, and C02 emission for each energy type in the most recent year (2019)
 
 ![Energy Types](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/energy%20types.png)
 
 ![Energy Types Tables](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Results/Energy%20types%20table.png)
-#### Total C02 emission from each energy type in the most recent year (2019)
 
 ### TREND ANALYSIS
-#### Yearly World CO2 Emissions (1980-2019)
+
 #### Year-on-Year World CO2 Emissions Difference and Percentage Difference
 ![YoY](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/YoY.png)
 
@@ -69,18 +66,16 @@ The key findings from the analysis include:
 #### Correlation Coefficients between energy consumption, GDP, population, and CO2 emissions
 
 ### REGIONAL ANALYSIS
-#### Unique Regions
-#### Regional GDP, Population, and CO2 Emissions in the most recent year (2019)
-#### Energy_consumption, Energy_production, and CO2 Emissions by Region
-#### CO2 Emissions and Percentage of Total by Region
+
+#### Regional GDP, Population, Energy_consumption, Energy_production, and CO2 Emissions, Percentage of Total, ranked by CO2 Emissions in 2019
+
 #### Region by Energy_intensity_per_capita, Energy_intensity_by_GDP
 
 ### COUNTRY ANALYSIS
-#### Unique Countries
+
 #### View a Particular country's energy and CO2 emissions data for the most recent year (2019)
-#### Countries by Energy_consumption, Energy_production, and CO2 Emissions
-#### Top 10 Countries by GDP, Population, and CO2 Emission, Ranked by Population
-#### Countries by Energy_intensity_per_capita, Energy_intensity_by_GDP
+#### Top 10 Countries by GDP, Population, Energy_consumption, Energy_production, and CO2 Emissions, Percentage of Total, ranked by CO2 Emissions
+#### Top 10 Countries by Energy_intensity_per_capita, Energy_intensity_by_GDP
 
 ## Usage and Future Work
 This project can serve as a starting point for further analysis and exploration of energy and CO2 emissions data. The SQL code provided can be modified and expanded to incorporate additional analysis or explore specific research questions.

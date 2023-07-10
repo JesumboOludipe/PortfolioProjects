@@ -37,7 +37,7 @@ Country, Energy Type, Year (1980 - 2019), Energy Consumption (quad Btu), Energy 
 
 ![World2019 Table](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/Results/World%20data.png)
 
-#### World Energy and CO2 Emissions Data from 1980 to 2019
+#### World Population and CO2 Emissions Data from 1980 to 2019
 
 ![World 1980 - 2019](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Countries'%20Energy%20Production%20and%20CO2%20Emissions/SQL%20Images/World1980.png)
 

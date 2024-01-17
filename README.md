@@ -4,7 +4,7 @@ My data analytics portfolio repository showcases a collection of projects that d
 
 ## About Me
 
-I am a highly motivated data analyst with a strong background and over 3 years of experience in SQL, Tableau, Python, and Spreadsheets. I have a proven track record of converting complex data into actionable insights that drive business growth and improve decision-making. My expertise lies in data analysis and visualization, where I excel at developing efficient dashboards and reports for stakeholder communication. 
+I am a highly motivated data analyst with a strong background and over 4 years of experience in SQL, Power BI, Python, and Excel. I have a proven track record of converting complex data into actionable insights that drive business growth and improve decision-making. My expertise lies in data analysis and visualization, where I excel at developing efficient dashboards and reports for stakeholder communication. 
 
 Throughout my career, I have successfully delivered various projects using these tools, and I am constantly working to improve my skills. I possess excellent communication skills, allowing me to collaborate effectively with teams and stakeholders to achieve common goals. I am also a quick learner and thrive in a fast-paced and challenging work environment.
 

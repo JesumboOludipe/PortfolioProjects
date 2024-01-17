@@ -26,6 +26,12 @@ My [Portfolio Website](https://jesumbooludipe.github.io/)
 **Result:** The analysis revealed several insights into customer behavior and identified cross-selling opportunities for the bank. The majority of customers were female, and the largest age group was 41-60 years old. Customers with an income of 50,000 - 100,000 were the largest income group. The majority of customers owned 0-2 products, presenting an opportunity for cross-selling. The most commonly owned products were current accounts and debit cards, while the least commonly owned products were savings accounts and guarantees. The analysis identified the top 10 cross-selling opportunities for the bank. Based on these insights, the bank could develop targeted marketing campaigns, train employees on cross-selling, streamline product offerings, improve the customer experience, focus on customers who own only one product, analyze product bundles, analyze customer behavior, and leverage customer feedback to increase cross-selling and revenue. This project demonstrated the value of data analysis and visualization in understanding customer behavior and identifying business opportunities.
 
 
+[Click here to view the dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzA2NDlkOTItZWQyYi00YmQwLWIyZTAtOTZjOTFjY2Y1OTdkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
+
+![Dashboard](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Cross%20Selling%20Recommendations%20for%20Banking%20Products/cross%20sell.png)
+
+
 ### Sylip Corporation Sales Analysis ([View Project](https://github.com/JesumboOludipe/PortfolioProjects/tree/main/Sylip%20Corporation%20Sales%20Analysis%20-%20SQL%20and%20Power%20BI))
 **Description:** The Sylip Corporation Sales Analysis project involved utilizing sales data from a retail company that specializes in various products. The aim was to provide the company with valuable insights into key performance indicators (KPIs) such as region-wise profits, annual revenue, and yearly units sold. The project involved data manipulation, analysis, and visualization to provide actionable recommendations that could improve the company's profitability and overall performance.
 

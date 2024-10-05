@@ -2,8 +2,6 @@
 Comparison: Pink Cab Company vs. Yellow Cab Company
 
 Presented by: Jesumbo Oludipe  
-Date: March 13, 2023  
-Data Glacier Case Study
 
 ---
 

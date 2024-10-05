@@ -43,3 +43,9 @@ To provide actionable insights that will guide the firm in selecting the most pr
 
 - Target Audience for Marketing:  
   Focus advertising and marketing efforts on middle-income individuals aged 18-40.
+
+
+## Dashboard
+[Click here to view the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWM0N2NlYjQtYWE3NC00NzBhLWJlMmItOWUxOTRiMDEzMzYzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
+![Dashboard](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Go%20to%20Market%20Strategy%20for%20Cab%20Industry/G2M%20Cab%20Company%20Investment%20Dashboard.png)

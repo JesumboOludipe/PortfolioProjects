@@ -5,7 +5,7 @@
 **Tools:** `Python` · `pandas` · `NumPy` · `seaborn` · `matplotlib`
 **Type:** Exploratory data analysis and correlation
 **Data:** IMDB movie data (scraped by Daniel Grijalva, via Kaggle), 220 movies per year, 1986 to 2016
-**Code:** [Data Correlation in Python - Movies Dataset.ipynb](../Data%20Correlation%20in%20Python%20-%20Movies%20Dataset.ipynb)
+**Code:** [Data Correlation in Python - Movies Dataset.ipynb](https://github.com/JesumboOludipe/PortfolioProjects/blob/main/Movie%20Correlation%20Analysis%20-%20Python/Data%20Correlation%20in%20Python%20-%20Movies%20Dataset.ipynb)
 
 ## Overview
 What makes a movie earn? This project investigates the factors behind a film's gross revenue, testing whether budget, votes, ratings, genre, company, or director best explain success across three decades of movies.

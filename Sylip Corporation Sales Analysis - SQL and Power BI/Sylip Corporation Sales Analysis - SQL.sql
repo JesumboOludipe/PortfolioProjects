@@ -1,5 +1,7 @@
 --Sylip Corporation Sales Analysis,
 
+-- Commands Used - SELECT, FROM, WHERE, ALTER TABLE, ALTER COLUMN, GROUP  BY, ORDER BY, MONTH, ADD, UPDATE, SET, DROP COLUMN.
+
 --View Data
 SELECT * FROM SALES_DATA2
 
